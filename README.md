@@ -12,3 +12,4 @@ The Trip Planner, an application meticulously crafted with fundamental Data Stru
 **Budget Management:** To track and manage expenses using a priority queue and allow users to set a budget and prioritise spending based on expense amounts. In the end, display the total spent and remaining within the budget.
 
 ## Output
+<img width="478" alt="Screenshot 2024-03-07 at 22 16 24" src="https://github.com/kuhu42/trip-planner-dsa/assets/143384804/04c4a32e-2fc2-46b7-a370-ebd6cef7cea1">
