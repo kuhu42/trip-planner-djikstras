@@ -10,3 +10,5 @@ The Trip Planner, an application meticulously crafted with fundamental Data Stru
 **Itinerary Management:** To organise the trip itinerary using a linked list and allow them to add activities to the itinerary. Finally, display the itinerary.
 
 **Budget Management:** To track and manage expenses using a priority queue and allow users to set a budget and prioritise spending based on expense amounts. In the end, display the total spent and remaining within the budget.
+
+## Output
